@@ -25,6 +25,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [product hunt ](https://www.producthunt.com/) : Discover your next favorite thing
 
 # Coding practice for beginners
+   * [The Odin Project | free full-stack web developing course](https://www.theodinproject.com/) : this is a very well structured course that only uses free resources.
    * [Reddit.com/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
    * [Programming by Doing](http://programmingbydoing.com/) : very good site for those who want to start with absolute basics
    * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
